@@ -1,0 +1,13 @@
+valor_do_lanche = int(input("digite o valor do lanche  "))
+valorCliente1 = int(input("digite o valor recebido pelo cliente "))
+calculotroco = valor_do_lanche - valorCliente1
+print("O valor do lanche é", valor_do_lanche , "e o valor que o cliente deu foi", valorCliente1)
+print("logo o troco do cliente é", calculotroco)
+
+#segunda opção
+print("Digite o valor do lanche")
+valorlanche = int(input())
+print("Qual o valor recebido pelo cliente")
+valor_recebido = int(input())
+troco1 = valorlanche - valor_recebido
+print("O troco do cliente é", (valor_recebido - valorlanche))

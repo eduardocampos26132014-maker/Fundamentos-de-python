@@ -1,0 +1,7 @@
+num1 = float(input("digite um número"))
+num2 = float(input("digite outro número"))
+num3 = float(input("digite outro número"))
+media_aluno = num1+num2+num3 /3
+
+print("A media é", media_aluno)
+
