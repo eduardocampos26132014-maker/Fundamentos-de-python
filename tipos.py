@@ -8,4 +8,18 @@ print(var)
 
 #Inteiro
 Inteiro = 5
+#Fracionarios/float
 
+Fracionarios = 1.0
+
+#Constantes
+
+#Textos
+Textos = "exemplos"
+
+#Lógico (boolean)
+Lógico = true
+
+#vazio
+
+vazio = none

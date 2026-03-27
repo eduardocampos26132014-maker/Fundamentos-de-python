@@ -1,0 +1,7 @@
+name = input("insira o nome da flor")
+if name == "Spathiphyllum":
+    print("Sim - Spathiphyllum é a melhor")
+elif name == "spathiphyllum":
+    print("Não, eu quero um grande spathiphyllum!")
+else: 
+    print("Spathiphyllum! Não",  name + "!") 
